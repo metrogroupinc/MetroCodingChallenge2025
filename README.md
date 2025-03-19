@@ -4,7 +4,7 @@
 Welcome to the Movie Explorer live coding session! In this session, you'll work on completing a partially implemented movie search application while collaborating with our software team manager. This challenge is designed to assess your JavaScript fundamentals, API interaction, DOM manipulation, and problem-solving skills in a collaborative environment.
 
 ## Session Format
-- **Duration**: 2 hours
+- **Duration**: 90 Minutes
 - **Collaboration**: This is a pair programming session where you'll code while discussing your approach with the manager
 - **Support**: Feel free to ask questions, discuss options, and work through problems together
 - **Goal**: Complete as many features as possible while demonstrating your thought process
