@@ -17,29 +17,27 @@ function searchMovies() {
     const query = document.getElementById('search').value;
     // TODO: Add correctly formated API Request URL to Fetch method 
     fetch(/*API Request URL*/)
-        .then(response => response.json())
-        .then(data => {
+        //TODO: Format fetch response Promise as JSON
+        //TODO: Handle JSON format Promise
                 // TODO: Clear the current movies display (moviesDiv)
     
                 // TODO: If search results exist, loop through them and:
                 //       1. Create a movie element for each result
                 //       2. Add the movie poster (if poster available), title, and year
                 //       3. Add a details button that calls getMovieDetails() with the movie imdbID
-                //       4. Append each movie element to the moviesDiv
-        });
+                //       4. Append each movie element to the moviesDiv       
 }
 
 function getMovieDetails(imdbID) {
      // TODO: Add correctly formated API Request URL to Fetch method 
      fetch(/*API Request URL*/)
-        .then(response => response.json())
-        .then(movie => {
+        //TODO: Format fetch response Promise as JSON
+        //TODO: Handle JSON format Promise
             // TODO: When the data returns:
             //       1. Store the movie data in the currentMovie variable
             //       2. Update the movie details section with the title, poster, and info
             //       3. Call updateFavoriteButtonText() to set the correct button text
             //       4. Hide the movies list and show the details view
-        });
 }
 
 function goBack() {
