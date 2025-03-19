@@ -1,4 +1,4 @@
-# Movie Explorer - Junior Web Developer Live Coding Session
+# Movie Explorer - Junior Engineer Live Coding Session
 
 ## Overview
 Welcome to the Movie Explorer live coding session! In this session, you'll work on completing a partially implemented movie search application while collaborating with our software team manager. This challenge is designed to assess your JavaScript fundamentals, API interaction, DOM manipulation, and problem-solving skills in a collaborative environment.
