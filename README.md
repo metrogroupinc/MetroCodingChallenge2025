@@ -37,10 +37,10 @@ The application uses the OMDb API. We'll provide an API key for you to use durin
    - Display the current list of favorite movies
 
 2. **UX Improvements**
-- Add loading indicators when waiting for API responses
-- Implement responsive design for mobile and desktop viewing
-- Handle edge cases (missing images, long text, etc.)
-- Improve the visual design with CSS
+   - Add loading indicators when waiting for API responses
+   - Implement responsive design for mobile and desktop viewing
+   - Handle edge cases (missing images, long text, etc.)
+   - Improve the visual design with CSS
 
 ### Additional Considerations
 - Error handling for API requests
