@@ -3,6 +3,7 @@
 ## Overview
 Welcome to the Movie Explorer live coding session! In this session, you'll work on completing a partially implemented movie search application while collaborating with our software team manager. This challenge is designed to assess your JavaScript fundamentals, API interaction, DOM manipulation, and problem-solving skills in a collaborative environment.
 
+
 ## Session Format
 - **Duration**: 90 Minutes
 - **Collaboration**: This is a pair programming session where you'll code while discussing your approach with the manager
@@ -62,5 +63,9 @@ During this session, we're evaluating:
 - Focus on making core features work before adding enhancements
 - Don't worry about getting everything perfect - we're more interested in how you work
 - If you face a challenge, let's work through it together
+
+## Example Solution
+
+A working example of the completed application is available for reference at [metrogroup-movie-explorer.surge.sh](https://metrogroup-movie-explorer.surge.sh). This demonstrates the expected functionality, but your implementation approach may differ.
 
 Remember, this session is as much about assessing how we would work together as it is about technical skills. We're looking forward to coding with you!
